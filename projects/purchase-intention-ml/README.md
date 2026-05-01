@@ -93,7 +93,6 @@ The precision is lower than recall, which means some sessions predicted as purch
 
 This project demonstrates how to:
 
-- turn a notebook into a structured machine-learning repository
 - clean and validate raw data
 - encode categorical and cyclic features
 - handle imbalanced classification with SMOTE
