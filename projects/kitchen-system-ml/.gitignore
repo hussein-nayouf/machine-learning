@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment variables
+.env
+.env.*
+
+# Processed data artifacts
+data/processed/*
+
+# Model artifacts
+models/*
+
+# Reports and generated figures
+reports/figures/*
+
+# Keep folder placeholders
+!data/processed/.gitkeep
+!models/.gitkeep
+!reports/figures/.gitkeep
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/

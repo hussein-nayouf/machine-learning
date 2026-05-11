@@ -1,0 +1,56 @@
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  dataset_file: kitchen_ml_dataset.xlsx
+  target_column: total_orders
+
+features:
+  original_feature_columns:
+    - date
+    - day_of_week
+    - weekend
+    - holiday
+    - service_type
+    - weather
+    - temperature
+    - special_event
+
+  numeric_features:
+    - is_weekend
+    - holiday
+    - temperature
+    - special_event
+    - year
+    - month
+    - day
+    - day_of_year
+
+  categorical_features:
+    - day_of_week
+    - service_type
+    - weather
+
+  excluded_columns:
+    - total_customers
+    - total_revenue
+    - avg_order_value
+    - num_chefs
+    - num_waiters
+    - num_items_sold
+
+training:
+  random_state: 42
+  validation_size: 0.15
+  test_size: 0.15
+  model_dir: models
+  model_file: tuned_random_forest_model.joblib
+
+model:
+  type: RandomForestRegressor
+  parameters:
+    n_estimators: 300
+    max_depth: 5
+    min_samples_leaf: 4
+    min_samples_split: 10
+    random_state: 42
+
