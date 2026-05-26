@@ -1,0 +1,27 @@
+menu_item_id,item_name,category,unit_price,estimated_cost,prep_complexity,active_from,active_to,status
+M001,Bruschetta,Starter,8.5,2.6,Low,2023-01-01,,Active
+M002,Soup of the Day,Starter,7.9,2.2,Medium,2023-01-01,,Active
+M003,Crispy Calamari,Starter,11.5,4.2,Medium,2023-01-01,,Active
+M004,House Salad,starter,9.2,3.1,Low,2023-01-01,,Active
+M005,Ribeye Steak,Main Course,29.9,12.8,High,2023-01-01,,Active
+M006,Grilled Salmon,Main Course,24.5,9.6,High,2023-01-01,,Active
+M007,Truffle Pasta,Main Course,21.0,7.4,High,2023-01-01,,Active
+M008,Chicken Schnitzel,MAIN COURSE,18.5,6.2,Medium,2023-01-01,,Active
+M009,Veggie Burger,Main Course,17.8,5.8,Medium,2023-01-01,,Active
+M010,Mushroom Risotto,Main Course,19.5,6.9,High,2023-01-01,,Active
+M011,Tiramisu,Dessert,8.9,2.7,Medium,2023-01-01,,Active
+M012,Chocolate Fondant,Dessert,9.8,3.3,High,2023-01-01,,Active
+M013,Seasonal Sorbet,Dessert,7.2,,Low,2023-05-01,,Active
+M014,House Fries,Side,5.5,1.4,Low,2023-01-01,,Active
+M015,Roasted Vegetables,Side,6.4,1.9,Low,2023-01-01,,Active
+M016,Espresso,Drink,3.2,-0.2,Low,2023-01-01,,Active
+M017,House Wine Glass,Drink,8.0,2.6,Low,2023-01-01,,Active
+M018,Craft Beer,Drink,7.2,2.3,Low,2023-01-01,,Active
+M019,Sparkling Water,Drink,99.99,0.9,Low,2023-01-01,,Active
+M020,Signature Cocktail,Drink,12.5,3.8,Medium,2023-03-01,,Active
+M021,Summer Seafood Plate,Special,27.5,11.2,High,2023-06-01,2025-09-15,Inactive
+M022,December Roast,Special,25.0,9.8,High,2023-15-01,2025-12-31,Inactive
+M023,Lunch Bowl,Main Course,15.5,4.9,Medium,2024-01-10,,Active
+M024,Kids Pasta,Main Course,10.5,3.2,Low,2023-01-01,2024-10-01,Inactive
+M025,Chef Tasting Add-on,Special,16.0,5.5,High,2024-06-01,not_a_date,Active
+M026,Pumpkin Ravioli,Special,20.5,7.1,High,2023-09-01,2025-11-30,Inactive

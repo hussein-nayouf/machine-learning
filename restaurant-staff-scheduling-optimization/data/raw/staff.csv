@@ -1,0 +1,26 @@
+staff_id,name,role,experience_level,hourly_cost,max_hours_per_week,employment_type,preferred_shift,active_from,active_to,status
+S001,Amelia Lind,Chef,Senior,31.5,40,Full-time,Flexible,2023-01-01,,Active
+S002,Noah Berg,Chef,Mid,26.5,40,Full-time,Dinner,2023-01-01,,Active
+S003,Ella Holm,Chef,Mid,25.0,35,Full-time,Flexible,2023-01-01,2025-04-30,Inactive
+S004,Oscar Nordin,Chef,Junior,20.5,28,Part-time,Lunch,2023-03-15,,Active
+S005,Maja Ek,Chef,Senior,33.0,32,Part-time,Dinner,2024-02-01,,Active
+S006,Liam Sand,chef,Junior,19.5,20,Casual,Flexible,2024-06-01,,Active
+S007,Sofia Dahl,Server,Senior,23.5,38,Full-time,Flexible,2023-01-01,,Active
+S008,Lucas Ny,Server,Mid,20.5,35,Full-time,Dinner,2023-01-01,,Active
+S009,Alice West,SERVER,Junior,17.0,22,Part-time,Lunch,2023-01-01,,Active
+S010,Vera Rune,Server,Mid,20.0,30,Part-time,Dinner,2023-05-01,,Active
+S011,Elias Moe,Server,Junior,16.5,18,casual,Flexible,2023-04-01,2024-12-31,Inactive
+S012,Hanna Vik,Server,Senior,24.0,40,Full-time,Flexible,2023-01-01,,Active
+S013,Isak Finn,Server,Mid,19.5,25,Part-time,Dinner,2024-01-15,,Active
+S014,Nora Lake,Server,Junior,16.0,16,PT,Lunch,2024-06-01,,Active
+S015,Milo Stone,Server,Mid,20.0,24,Part-time,Flexible,2025-02-01,,Active
+S016,Freja Moss,Server,Junior,4.0,20,Casual,Dinner,2023-08-01,,Active
+S017,Oliver Frost,Manager,Senior,34.0,40,Full-time,Flexible,2023-01-01,,Active
+S018,Clara Vale,Manager,Mid,28.0,32,Part-time,Dinner,2023-01-01,,Active
+S019,Leo Park,Manager,Senior,36.0,40,Full-time,Flexible,2024-99-01,,Active
+S020,Sara Reed,Server,Mid,19.0,22,Part-time,Lunch,2025-05-15,,Active
+S021,Jonas Field,Chef,Mid,25.5,75,Part-time,Flexible,2025-03-01,,Active
+S022,Iris Moon,Server,Junior,16.5,14,Casual,,2023-11-01,2025-08-31,Inactive
+S023,Theo Sun,Server,Senior,24.5,34,Full-time,Flexible,2024-04-01,,Active
+S024,Liv Brooks,Chef,Junior,18.5,18,Casual,Lunch,2023-06-01,2024-08-31,Inactive
+S024,Liv Brooks,chef,Junior,18.5,18,Casual,Lunch,2023-06-01,2024-08-31,Inactive
